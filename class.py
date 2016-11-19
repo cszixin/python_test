@@ -10,3 +10,4 @@ class Student:
 if __name__ == "__main__":
     student = Student("liuchuanshi")
     print student.getName()
+
